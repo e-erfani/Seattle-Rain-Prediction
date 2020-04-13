@@ -1,4 +1,4 @@
-# Seattle_Climate_Prediction
+# Seattle Climate Prediction
 Climate prediction is crucial for federal and local governments, farmers, and tourist agencies in order to plan well in advance for any decision-making or get ready for any likely weather/climate extremes. There are many factors contributing to climate prediction. In this project, I selected my city, Seattle, where many people (outside WA state) think  "it's always rainy in Seattle". 
 
 I downloaded Seattle airport station data. As shown in the first figure in Climate_seattle.ipynb Junyper Notebook, the precipitation amount greatly reduces from winter to summer, and vice versa. It is also seen that precipitation and temperature are inversely associated. The second figure shows that monthly temperature can be used as a predictor for monthly precipitation via a linear regression showing a correlation coefficient of 0.9. 
